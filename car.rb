@@ -18,4 +18,8 @@ class Car
     "HONK HONK"
   end
 
+  def stop
+    "SCREECH"
+  end
+
 end
