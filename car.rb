@@ -19,7 +19,7 @@ class Car
   end
 
   def stop
-    "SCREECH!!!"
+    "SCREEEEECH!!!"
   end
 
 end
