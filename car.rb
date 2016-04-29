@@ -10,4 +10,12 @@ class Car
     "This car is #{@color} and has a capacity of #{@capacity}."
   end
 
+  def max_speed
+    200
+  end
+
+  def honk
+    "HONK HONK"
+  end
+
 end
